@@ -5,7 +5,6 @@ import 'package:provider/provider.dart';
 import 'package:stock_wishlist/controllers/api_controller.dart';
 import 'package:stock_wishlist/controllers/hive_database_controller.dart';
 import 'package:stock_wishlist/models/watchlist_model.dart';
-import 'package:stock_wishlist/views/home_page/home_page.dart';
 import 'package:stock_wishlist/views/main_page.dart';
 import 'package:stock_wishlist/views/statemanagment/stock_provider.dart';
 import 'package:stock_wishlist/views/statemanagment/watchlist_provider.dart';

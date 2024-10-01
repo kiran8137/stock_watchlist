@@ -26,7 +26,7 @@ class CompanyDetailWidget extends StatelessWidget {
       ),
        
       child:   Padding(
-        padding: EdgeInsets.all(10.0),
+        padding: const EdgeInsets.all(10.0),
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [

@@ -2,6 +2,7 @@
 class SearchResultModel {
   final String symbol;
   final String name;
+  
    
 
   SearchResultModel({required this.symbol, required this.name,});
